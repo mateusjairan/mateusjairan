@@ -1,16 +1,28 @@
-## Hi there 👋
-
-<!--
-**mateusjairan/mateusjairan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <img src="https://64.media.tumblr.com/fd2c2189d53fab92d17a29ce93aade75/acf33f34b877bdb7-11/s540x810/407e6cbdd9adc4251f547a7582840d5f046140cc.pnj" alt="Alt text">
+    </td>
+    <td>
+      <h1>Hi, I'm Mateus Jairan de Sousa Rodrigues!</h1>
+      <h3>About Me</h3>
+      <ul>
+        <li>He/him, brazilian, pt-br & eng</li>
+        <li>I'm currently studying <b>Software Development</b>.</li>
+        <li>I’m passionate about <b>Web Development</b> and <b>Mobile</b>.</li>
+        <li>Based in <b>Fortaleza, Ceará</b>.</li>
+        <li>My goal is to work in the <b>Tech industry</b> and grow as a professional.</li>
+      </ul>
+      <h3>Tools & Technologies</h3>
+      <ul>
+        <li><b>Languages</b>: JavaScript </li>
+        <li><b>Frameworks</b>: React, Node.js</li>
+      </ul>
+      <h3>Connect with Me</h3>
+      <ul>
+        <li><a href="your-linkedin-profile">LinkedIn</a></li>
+        <li><a href="your-portfolio-link">Portfolio</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
