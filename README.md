@@ -4,7 +4,7 @@
       <img src="https://64.media.tumblr.com/fd2c2189d53fab92d17a29ce93aade75/acf33f34b877bdb7-11/s540x810/407e6cbdd9adc4251f547a7582840d5f046140cc.pnj" alt="Alt text">
     </td>
     <td>
-      <h1>Hi, I'm Mateus Jairan de Sousa Rodrigues!</h1>
+      <h1>Hi, I'm Mateus Jairan!</h1>
       <h3>About Me</h3>
       <ul>
         <li>He/him, brazilian, pt-br & eng</li>
