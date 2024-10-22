@@ -15,7 +15,7 @@
       </ul>
       <h3>Tools & Technologies</h3>
       <ul>
-        <li><b>Languages</b>: JavaScript </li>
+        <li><b>Languages</b>: JavaScript, PHP </li>
         <li><b>Frameworks</b>: React, Node.js</li>
       </ul>
       <h3>Connect with Me</h3>
