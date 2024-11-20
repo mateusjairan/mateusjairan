@@ -11,7 +11,7 @@
         <li>I'm currently studying <b>Software Development</b>.</li>
         <li>I’m passionate about <b>Web Development</b> and <b>Mobile</b>.</li>
         <li>Based in <b>Fortaleza, Ceará</b>.</li>
-        <li>My goal is to work in the <b>Tech industry</b> and grow as a professional.</li>
+        <li>My goal is to work with <b>Software Development</b> and grow as a professional.</li>
       </ul>
       <h3>Tools & Technologies</h3>
       <ul>
