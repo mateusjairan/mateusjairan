@@ -9,13 +9,13 @@
       <ul>
         <li>He/him, brazilian, pt-br & eng</li>
         <li>I'm currently studying <b>Software Development</b>.</li>
-        <li>I’m passionate about <b>Web Development</b> and <b>Data Science</b>.</li>
+        <li>I’m passionate about <b>Data Analysis</b> and <b>Data Science</b>.</li>
         <li>Based in <b>Fortaleza, Ceará</b>.</li>
-        <li>My goal is to work with <b>Software Development</b> and grow as a professional.</li>
+        <li>My goal is to work with <b>Data Science</b> and grow as a professional.</li>
       </ul>
       <h3>Tools & Technologies</h3>
       <ul>
-        <li><b>Languages</b>: JavaScript, PHP, Python </li>
+        <li><b>Languages</b>: JavaScript, Python </li>
         <li><b>Frameworks</b>: React, Node.js, Pandas</li>
       </ul>
       <h3>Connect with Me</h3>
