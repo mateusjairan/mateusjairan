@@ -11,12 +11,12 @@
         <li>I'm currently studying <b>Data Engineering</b>.</li>
         <li>I’m passionate about <b>Data Analysis</b> and <b>Data Science</b>.</li>
         <li>Based in <b>Fortaleza, Ceará</b>.</li>
-        <li>My goal is to work with <b>Data Science</b> and grow as a professional.</li>
+        <li>My goal is to work with <b>Data Engineering</b> and grow as a professional.</li>
       </ul>
       <h3>Tools & Technologies</h3>
       <ul>
         <li><b>Languages</b>: JavaScript, Python, SQL </li>
-        <li><b>Frameworks</b>: Electron, FastAPI, Pandas</li>
+        <li><b>Frameworks</b>: Electron, FastAPI, Pandas, Prefect, Apache Airflow</li>
       </ul>
       <h3>Connect with Me</h3>
       <ul>
